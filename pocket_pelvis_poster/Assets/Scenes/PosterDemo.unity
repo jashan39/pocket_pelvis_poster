@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.4465782, g: 0.49641252, b: 0.5748167, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657868, g: 0.49641263, b: 0.57481706, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -411,7 +411,7 @@ Transform:
   m_GameObject: {fileID: 541629324}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: -0.080000006, y: 0.020000001, z: 0.17000002}
-  m_LocalScale: {x: 3.2487307, y: 3.248734, z: 3.248734}
+  m_LocalScale: {x: 4.7, y: 3.248734, z: 3.248734}
   m_Children: []
   m_Father: {fileID: 2112439405}
   m_RootOrder: 0
@@ -661,7 +661,7 @@ Transform:
   m_GameObject: {fileID: 756026344}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: -0.080000006, y: 0.020000001, z: 0.17000002}
-  m_LocalScale: {x: 3.2487307, y: 3.248734, z: 3.248734}
+  m_LocalScale: {x: 4.7, y: 3.248734, z: 3.248734}
   m_Children: []
   m_Father: {fileID: 169019016}
   m_RootOrder: 0
@@ -672,7 +672,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: stones_jpgMaterial
+  m_Name: chips_jpgMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -685,7 +685,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: d058bf16ca3a469b966d030af44c20f7, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2659157949504904beee82d54ba22f4d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
@@ -786,7 +786,7 @@ MonoBehaviour:
   m_Script: {fileID: -1631628248, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mTrackableName: chips_jpg
+  mTrackableName: soil_jpg
   mPreserveChildSize: 0
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/posterDemo.xml
@@ -1023,7 +1023,7 @@ Transform:
   m_GameObject: {fileID: 1946115203}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: -0.080000006, y: 0.020000001, z: 0.17000002}
-  m_LocalScale: {x: 3.2487307, y: 3.248734, z: 3.248734}
+  m_LocalScale: {x: 4.7, y: 3.248734, z: 3.248734}
   m_Children: []
   m_Father: {fileID: 1284128895}
   m_RootOrder: 0
